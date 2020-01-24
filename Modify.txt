@@ -1,0 +1,9 @@
+php
+mySql
+score
+- hits
+- wrong
+- name
+- srore table
+comments
+readme
